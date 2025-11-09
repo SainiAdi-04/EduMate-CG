@@ -27,7 +27,7 @@ All combined into a clean, responsive, and mobile-friendly web app built with **
 ### 🎙️ Voice-Based Learning
 - Ask questions via microphone (Hindi/English)
 - AI answers back with spoken explanations
-- Text-to-speech + speech-to-text integration
+- Speech-to-text integration
 
 
 ### 📴 Offline-First Functionality
