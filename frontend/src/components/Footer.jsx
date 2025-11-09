@@ -20,7 +20,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li><a href="#features" className="text-muted-foreground hover:text-foreground transition-colors">Features</a></li>
               <li><a href="#how-it-works" className="text-muted-foreground hover:text-foreground transition-colors">How it works</a></li>
-              <li><a href="#" className="text-muted-foreground hover:text-foreground transition-colors">Pricing</a></li>
+              
             </ul>
           </div>
 
@@ -43,7 +43,7 @@ const Footer = () => {
         </div>
 
         <div className="pt-8 border-t border-border text-center text-muted-foreground">
-          <p>&copy; 2024 EduMate CG. Built for students of Chhattisgarh.</p>
+          <p>&copy; 2025 EduMate CG. Built for students of Chhattisgarh.</p>
         </div>
       </div>
     </footer>
