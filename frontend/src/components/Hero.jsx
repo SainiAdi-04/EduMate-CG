@@ -17,7 +17,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto animate-fade-in-up stagger-1">
-            Talk to it, listen to explanations, watch YouTube lessons, and get instant summaries — all in Hindi or English.
+            Talk to it, get the explanations, watch YouTube lessons, and get instant summaries — all in Hindi or English.
           </p>
 
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto animate-fade-in-up stagger-2">

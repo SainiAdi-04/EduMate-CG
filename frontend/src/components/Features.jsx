@@ -7,8 +7,8 @@ const Features = () => {
     {
       icon: "🎤",
       title: "Voice-Powered Learning",
-      description: "Ask in Hindi by voice → AI answers with speech",
-      detail: "Natural conversation in your language. Just speak your question and get instant audio explanations.",
+      description: "Ask in Hindi by voice → AI answers with text",
+      detail: "Natural conversation in your language. Just speak your question and get instant explanations.",
     },
     {
       icon: "📺",

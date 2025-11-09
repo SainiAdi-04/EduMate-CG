@@ -12,7 +12,7 @@ const HowItWorks = () => {
     {
       number: "2",
       title: "Get AI-Powered Answers",
-      description: "Receive instant explanations through voice or text, tailored to your learning style.",
+      description: "Receive instant explanations through text, tailored to your learning style.",
       icon: "🤖",
     },
     {
